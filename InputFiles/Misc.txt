@@ -1,0 +1,2 @@
+SampleSize=	1000000
+Threshold=	45000

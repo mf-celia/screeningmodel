@@ -1,0 +1,6 @@
+ShowICERs=	TRUE
+ShowPreviousFrontier=	TRUE
+HealthOnXAxis=	TRUE
+SaveGraphPDF=	TRUE
+SaveGraphPNG=	TRUE
+ShowOptimalStrategy=	TRUE

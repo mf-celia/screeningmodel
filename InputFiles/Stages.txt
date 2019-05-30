@@ -1,0 +1,6 @@
+Stage	Name
+Stage1	Healthy
+Stage2	OnsetAge
+Stage3	Clinical
+Stage4	CauseSpecificDeath
+Stage5	OtherCauseDeath

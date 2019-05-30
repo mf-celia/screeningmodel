@@ -1,0 +1,2 @@
+PrimaryScreen	FollowUp	TreatmentScreenDetected	TreatmentClinical
+100	1000	10000	20000

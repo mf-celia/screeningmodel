@@ -1,0 +1,2 @@
+PreClinicalProbability	ClinicalProbability
+0.8	0.5
