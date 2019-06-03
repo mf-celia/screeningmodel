@@ -451,8 +451,6 @@ runtime <- Sys.time() - time  # stop the clock
 runtime
 
 ##################################### Plot on the CE plan ###########################################
-CostEffectivenessResults <- data.frame(read.table(file = "OutputFiles/LatestResults/OutputTable2019-05-24.txt", 				      header = T)) 
-
 # Set the plot dimension
 windows.options(width=12, height=9)
 
